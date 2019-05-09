@@ -19,7 +19,7 @@ nav {
 a {
 	text-decoration: none;
 	opacity: 0.75;
-	color: #fff;
+	color: #blue;
 }
 
 a:hover {
@@ -93,7 +93,7 @@ header {
 	padding: 35px 100px 0;
 	animation: 1s fadein 0.5s forwards;
 	opacity: 0;
-	color: #fff;
+	color: blue;
 }
 
 @keyframes fadein {
@@ -133,7 +133,7 @@ header nav li {
 	justify-content: center;
 	text-align: center;
 	min-height: 100vh;
-	color: white;
+	color: blue;
 }
 
 .hero .background-image {
